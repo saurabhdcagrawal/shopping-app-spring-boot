@@ -1,0 +1,11 @@
+C:\Users\saura\repo\parent-microservices\microservices-new\order-service\src\main\java\com\shopping\orderservice\OrderServiceApplication.java
+C:\Users\saura\repo\parent-microservices\microservices-new\order-service\src\main\java\com\shopping\orderservice\dto\OrderRequest.java
+C:\Users\saura\repo\parent-microservices\microservices-new\order-service\src\main\java\com\shopping\orderservice\model\OrderLineItems.java
+C:\Users\saura\repo\parent-microservices\microservices-new\order-service\src\main\java\com\shopping\orderservice\dto\InventoryResponse.java
+C:\Users\saura\repo\parent-microservices\microservices-new\order-service\src\main\java\com\shopping\orderservice\event\OrderPlacedEvent.java
+C:\Users\saura\repo\parent-microservices\microservices-new\order-service\src\main\java\com\shopping\orderservice\model\Order.java
+C:\Users\saura\repo\parent-microservices\microservices-new\order-service\src\main\java\com\shopping\orderservice\controller\OrderController.java
+C:\Users\saura\repo\parent-microservices\microservices-new\order-service\src\main\java\com\shopping\orderservice\config\WebClientConfig.java
+C:\Users\saura\repo\parent-microservices\microservices-new\order-service\src\main\java\com\shopping\orderservice\repository\OrderRepository.java
+C:\Users\saura\repo\parent-microservices\microservices-new\order-service\src\main\java\com\shopping\orderservice\dto\OrderLineItemsDto.java
+C:\Users\saura\repo\parent-microservices\microservices-new\order-service\src\main\java\com\shopping\orderservice\service\OrderService.java
